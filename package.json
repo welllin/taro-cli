@@ -104,7 +104,8 @@
     "tcp-port-used": "^1.0.1",
     "xml2js": "^0.4.19",
     "xxhashjs": "^0.2.2",
-    "yauzl": "2.10.0"
+    "yauzl": "2.10.0",
+    "typescript": "3.4.5"
   },
   "devDependencies": {
     "@tarojs/taro": "2.0.7",
@@ -131,7 +132,6 @@
     "react-native": "^0.59.9",
     "tslint": "^5.12.0",
     "tslint-config-prettier": "^1.17.0",
-    "tslint-config-standard": "^8.0.1",
-    "typescript": "3.4.5"
+    "tslint-config-standard": "^8.0.1"
   }
 }
