@@ -11,7 +11,7 @@
     "clean": "rimraf dist",
     "lint": "tslint src/**/*.ts --fix",
     "lint:typecheck": "tslint -p tsconfig.json src/**/*.ts --fix",
-    "prepare": "npm run build"
+    "prepack": "npm run build"
   },
   "files": [
     "bin",
