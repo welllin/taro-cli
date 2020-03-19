@@ -2,3 +2,5 @@ templates/*
 !templates/default
 templates/default/.*
 package-lock.json
+node_modules/
+dist/
